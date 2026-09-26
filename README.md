@@ -2,7 +2,7 @@
 
 Stopwatch built on RxJS streams: start and stop it, pause it with a double click on Wait, or reset it. Built in December 2021 as a take-home assignment.
 
-**Live demo:** [test-task-react-stopwatch.vercel.app](https://test-task-react-stopwatch.vercel.app)
+**Live demo:** [react-stopwatch-androfficial.vercel.app](https://react-stopwatch-androfficial.vercel.app)
 
 ## Features
 
